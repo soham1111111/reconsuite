@@ -73,7 +73,7 @@ cd reconsuite
 ```
 
 ```bash
-chmod +x recon.sh
+chmod +x reconsuite.sh
 ```
 
 ---
@@ -81,13 +81,13 @@ chmod +x recon.sh
 ## Usage
 
 ```bash
-./recon.sh target.com
+./reconsuite.sh target.com
 ```
 
 Example:
 
 ```bash
-./recon.sh example.com
+./reconsuite.sh example.com
 ```
 
 ---
